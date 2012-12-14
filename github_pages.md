@@ -12,11 +12,9 @@ title: This will be used as the title-tag of the page head
 
 但是首行需要加上
 
-```markdown
----
-title: This will be used as the title-tag of the page head
----
-```
+    ---
+    title: This will be used as the title-tag of the page head
+    ---
 
 否则，Markdown 将不会被转换成  HTML.
 
