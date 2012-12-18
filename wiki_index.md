@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This will be used as the title-tag of the page head
+title: Wiki Index 
 ---
 
 
@@ -8,3 +8,4 @@ title: This will be used as the title-tag of the page head
 
 
 * [GitHub Pages](/github_pages)
+* [BackboneJS](/backbone_js)
